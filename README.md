@@ -27,8 +27,8 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 1.6.	[Type of errors](https://github.com/tomersk/learn-python/blob/main/01_06.ipynb) 
 ### 1.7.	[The first program](https://github.com/tomersk/learn-python/blob/main/01_07.ipynb) 
 
-## 2.	A bit of Python
-### 2.1.	Data type 
+## 2.	[A bit of Python](https://github.com/tomersk/learn-python/blob/main/02_00.ipynb)
+### 2.1.	[Data type](https://github.com/tomersk/learn-python/blob/main/02_01.ipynb) 
 ### 2.2.	Data structures 
 ### 2.3.	Choosing the name of variable 
 ### 2.4.	Operators and operands 
