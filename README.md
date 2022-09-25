@@ -29,7 +29,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 
 ## 2.	[A bit of Python](https://github.com/tomersk/learn-python/blob/main/02_00.ipynb)
 ### 2.1.	[Data type](https://github.com/tomersk/learn-python/blob/main/02_01.ipynb) 
-### 2.2.	Data structures 
+### 2.2.	[Data structures](https://github.com/tomersk/learn-python/blob/main/02_02.ipynb) 
 ### 2.3.	Choosing the name of variable 
 ### 2.4.	Operators and operands 
 ### 2.5.	Expressions 
