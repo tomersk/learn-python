@@ -33,9 +33,9 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 2.3.	[Choosing the name of variable](https://github.com/tomersk/learn-python/blob/main/02_03.ipynb) 
 ### 2.4.	[Operators and operands](https://github.com/tomersk/learn-python/blob/main/02_04.ipynb) 
 ### 2.5.	[Expressions](https://github.com/tomersk/learn-python/blob/main/02_05.ipynb) 
-### 2.6.	Control Flow 
-### 2.7.	Function 
-### 2.8.	Plotting 
+### 2.6.	[Control Flow](https://github.com/tomersk/learn-python/blob/main/02_06.ipynb) 
+### 2.7.	[Function](https://github.com/tomersk/learn-python/blob/main/02_07.ipynb) 
+### 2.8.	[Plotting](https://github.com/tomersk/learn-python/blob/main/02_08.ipynb) 
 
 ## 3.	Array
 ### 3.1.	Generating sequential arrays
