@@ -25,7 +25,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 1.4.	[Interactive Development Environment](https://github.com/tomersk/learn-python/blob/main/01_04.ipynb) 
 ### 1.5.	[Execute the program](https://github.com/tomersk/learn-python/blob/main/01_05.ipynb) 
 ### 1.6.	[Type of errors](https://github.com/tomersk/learn-python/blob/main/01_06.ipynb) 
-### 1.7.	The first program 
+### 1.7.	[The first program](https://github.com/tomersk/learn-python/blob/main/01_07.ipynb) 
 
 ## 2.	A bit of Python
 ### 2.1.	Data type 
