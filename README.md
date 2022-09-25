@@ -17,9 +17,9 @@ The book was originally in the form of a LATEX source code. Current version of t
 
 ## [Preface](https://github.com/tomersk/learn-python/blob/main/00_00_preface.ipynb)
 
-## [1. Getting Started](01.00-IPython-Beyond-Normal-Python.ipynb)
+## [1. Getting Started]
 
-### [1.1 Why Python?]()
+### [1.1 Why Python?](https://github.com/tomersk/learn-python/blob/main/01_GettingStarted.ipynb)
 ### 1.2.	Python Installation 
 ### 1.3.	Install additional packages 
 ### 1.4.	Interactive Development Environment 
