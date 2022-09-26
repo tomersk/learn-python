@@ -44,22 +44,16 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 3.4.	[Array Manipulation](https://github.com/tomersk/learn-python/blob/main/03_04.ipynb)
 ### 3.5.  [Dataframe](https://github.com/tomersk/learn-python/blob/main/03_05.ipynb)
 
-
-## 4.	Dataframe
-### 4.1.	Introduction
-### 4.2.	Indexing in Dataframe
-### 4.3.	Time series analysis using Dataframes
-
-## 5.	Basic applications in Hydrology
-### 5.1.	Introduction 
-### 5.2.	Water Vapor
-### 5.3.	Precipitable Water in atmospheric column
-### 5.4.	Precipitation 
-### 5.5.	Rainfall 
-### 5.6.	Evaporation 
-### 5.7.	Infiltration 
-### 5.8.	Surface water 
-### 5.9.	River Routing–Muskingum method 
+## 4.	Basic applications of Python
+### 4.1.	[Introduction](https://github.com/tomersk/learn-python/blob/main/04_01.ipynb) 
+### 4.2.	[Water Vapor](https://github.com/tomersk/learn-python/blob/main/04_02.ipynb)
+### 4.3.	[Terminal velocity of precipitation](https://github.com/tomersk/learn-python/blob/main/04_03.ipynb)
+### 4.4.	[Rainfall](https://github.com/tomersk/learn-python/blob/main/04_04.ipynb) 
+### 4.5.	[Evaporation](https://github.com/tomersk/learn-python/blob/main/04_05.ipynb) 
+### 4.6.	Infiltration 
+### 4.7.	Surface water 
+### 4.8.	River Routing–Muskingum method 
+### 4.9.  Delta-T
 
 ## 6.	Advanced application in Hydrology (python-based modelling packages)
 ### 6.1.	AMBHAS
