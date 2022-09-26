@@ -37,8 +37,8 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 2.7.	[Function](https://github.com/tomersk/learn-python/blob/main/02_07.ipynb) 
 ### 2.8.	[Plotting](https://github.com/tomersk/learn-python/blob/main/02_08.ipynb) 
 
-## 3.	Array
-### 3.1.	Generating sequential arrays
+## 3.	Array and dataframe
+### 3.1.	[Generating sequential arrays](https://github.com/tomersk/learn-python/blob/main/03_01.ipynb)
 ### 3.2.	Useful attributes and methods 
 ### 3.3.	Indexing 
 ### 3.4.	Array Manipulation
