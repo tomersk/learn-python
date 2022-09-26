@@ -39,9 +39,10 @@ The book was originally in the form of a LATEX source code. Current version of t
 
 ## 3.	Array and dataframe
 ### 3.1.	[Generating sequential arrays](https://github.com/tomersk/learn-python/blob/main/03_01.ipynb)
-### 3.2.	Useful attributes and methods 
-### 3.3.	Indexing 
+### 3.2.	[Useful attributes and methods](https://github.com/tomersk/learn-python/blob/main/03_02.ipynb) 
+### 3.3.	[Indexing](https://github.com/tomersk/learn-python/blob/main/03_03.ipynb) 
 ### 3.4.	[Array Manipulation](https://github.com/tomersk/learn-python/blob/main/03_04.ipynb)
+
 
 ## 4.	Dataframe
 ### 4.1.	Introduction
