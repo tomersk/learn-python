@@ -50,10 +50,10 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 4.3.	[Terminal velocity of precipitation](https://github.com/tomersk/learn-python/blob/main/04_03.ipynb)
 ### 4.4.	[Rainfall](https://github.com/tomersk/learn-python/blob/main/04_04.ipynb) 
 ### 4.5.	[Evaporation](https://github.com/tomersk/learn-python/blob/main/04_05.ipynb) 
-### 4.6.	Infiltration 
-### 4.7.	Surface water 
-### 4.8.	River Routing–Muskingum method 
-### 4.9.  Delta-T
+### 4.6.	[Infiltration](https://github.com/tomersk/learn-python/blob/main/04_06.ipynb) 
+### 4.7.	[Surface water](https://github.com/tomersk/learn-python/blob/main/04_07.ipynb) 
+### 4.8.	[River Routing–Muskingum method](https://github.com/tomersk/learn-python/blob/main/04_08.ipynb) 
+### 4.9.  [Delta T](https://github.com/tomersk/learn-python/blob/main/04_09.ipynb)
 
 ## 6.	Advanced application in Hydrology (python-based modelling packages)
 ### 6.1.	AMBHAS
