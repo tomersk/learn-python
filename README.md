@@ -42,6 +42,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 3.2.	[Useful attributes and methods](https://github.com/tomersk/learn-python/blob/main/03_02.ipynb) 
 ### 3.3.	[Indexing](https://github.com/tomersk/learn-python/blob/main/03_03.ipynb) 
 ### 3.4.	[Array Manipulation](https://github.com/tomersk/learn-python/blob/main/03_04.ipynb)
+### 3.5.  [Dataframe](https://github.com/tomersk/learn-python/blob/main/03_05.ipynb)
 
 
 ## 4.	Dataframe
