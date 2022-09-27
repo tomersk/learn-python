@@ -55,23 +55,19 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 4.8.	[River Routing–Muskingum method](https://github.com/tomersk/learn-python/blob/main/04_08.ipynb) 
 ### 4.9.  [Delta T](https://github.com/tomersk/learn-python/blob/main/04_09.ipynb)
 
-## 6.	Advanced application in Hydrology (python-based modelling packages)
-### 6.1.	AMBHAS
-### 6.2.	Pastas (Groundwater)
-
-## 7.	Statistics
-### 7.1.	Empirical distributions 
-### 7.2.	Theoretical distributions 
-### 7.3.	The t-test 
-### 7.4.	KS test 
-### 7.5.	The chi square test 
-### 7.6.	Mann-Kendall Test and Sen’s Slope
-### 7.7.	Measure of statistical dependence
-### 7.8.	Linear regression 
-### 7.9.	Polynomial regression 
-### 7.10.	Interpolation 
-### 7.11.	Autocorrelation 
-### 7.12.	Uncertainty Intervals
+## 5.	Statistics
+### 5.1.	[Empirical distributions](https://github.com/tomersk/learn-python/blob/main/05_01.ipynb) 
+### 5.2.	[Theoretical distributions](https://github.com/tomersk/learn-python/blob/main/05_02.ipynb) 
+### 5.3.	[The t-test](https://github.com/tomersk/learn-python/blob/main/05_03.ipynb) 
+### 5.4.	[KS test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb) 
+### 5.5.	[The chi square test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb)
+### 5.6.	Mann-Kendall Test and Sen’s Slope
+### 5.7.	Measure of statistical dependence
+### 5.8.	Linear regression 
+### 5.9.	Polynomial regression 
+### 5.10.	Interpolation 
+### 5.11.	Autocorrelation 
+### 5.12.	Uncertainty Intervals
 
 ## 8.	Spatial Data (gdal and ogr incorporated into osgeo library)
 ### 8.1.	Types of spatial data 
@@ -115,3 +111,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 
 ## 13.	 Install library
 ### 13.1.	Basemap
+
+## 6.	Advanced application in Hydrology (python-based modelling packages)
+### 6.1.	AMBHAS
+### 6.2.	Pastas (Groundwater)
