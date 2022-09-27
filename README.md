@@ -1,4 +1,4 @@
-# Python Data Science Handbook in Agtech
+# Learning Python for Modelling
 
 Version 1.0.0
 
