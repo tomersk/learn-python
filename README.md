@@ -61,13 +61,13 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 5.3.	[The t-test](https://github.com/tomersk/learn-python/blob/main/05_03.ipynb) 
 ### 5.4.	[KS test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb) 
 ### 5.5.	[The chi square test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb)
-### 5.6.	Mann-Kendall Test and Sen’s Slope
-### 5.7.	Measure of statistical dependence
-### 5.8.	Linear regression 
-### 5.9.	Polynomial regression 
-### 5.10.	Interpolation 
-### 5.11.	Autocorrelation 
-### 5.12.	Uncertainty Intervals
+### 5.6.	[Measure of statistical dependence](https://github.com/tomersk/learn-python/blob/main/05_06.ipynb)
+### 5.7.	[Linear regression](https://github.com/tomersk/learn-python/blob/main/05_07.ipynb) 
+### 5.8.	[Polynomial regression](https://github.com/tomersk/learn-python/blob/main/05_08.ipynb) 
+### 5.9.	[Interpolation](https://github.com/tomersk/learn-python/blob/main/05_09.ipynb) 
+### 5.10.	[Autocorrelation](https://github.com/tomersk/learn-python/blob/main/05_10.ipynb) 
+### 5.11.	[Uncertainty Intervals](https://github.com/tomersk/learn-python/blob/main/05_11.ipynb)
+### 5.12.	[Non parameteric trend and slope](https://github.com/tomersk/learn-python/blob/main/05_12.ipynb)
 
 ## 8.	Spatial Data (gdal and ogr incorporated into osgeo library)
 ### 8.1.	Types of spatial data 
