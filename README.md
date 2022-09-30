@@ -69,16 +69,16 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 5.11.	[Uncertainty Intervals](https://github.com/tomersk/learn-python/blob/main/05_11.ipynb)
 ### 5.12.	[Non parameteric trend and slope](https://github.com/tomersk/learn-python/blob/main/05_12.ipynb)
 
-## 8.	Spatial Data (gdal and ogr incorporated into osgeo library)
-### 8.1.	Types of spatial data 
-### 8.2.	Geoinformation 
-### 8.3.	Writing Raster 
-### 8.4.	Writing Vector 
-### 8.5.	Reading the raster 
-### 8.6.	Read the vector 
-### 8.7.	Filtering 
-### 8.8.	NDVI 
-### 8.9.	Raster and Vector operations: Clipping, extract values to point etc.
+## 6.	Spatial Data
+### 6.1.	[Types of spatial data](https://github.com/tomersk/learn-python/blob/main/06_01.ipynb) 
+### 6.2.	[Geoinformation](https://github.com/tomersk/learn-python/blob/main/06_02.ipynb) 
+### 6.3.	[Writing Raster](https://github.com/tomersk/learn-python/blob/main/06_03.ipynb) 
+### 6.4.	[Writing Vector](https://github.com/tomersk/learn-python/blob/main/06_04.ipynb) 
+### 6.5.	[Reading the raster](https://github.com/tomersk/learn-python/blob/main/06_05.ipynb) 
+### 6.6.	[Read the vector](https://github.com/tomersk/learn-python/blob/main/06_06.ipynb) 
+### 6.7.	[Filtering](https://github.com/tomersk/learn-python/blob/main/06_07.ipynb) 
+### 6.8.	NDVI 
+### 6.9.	Raster and Vector operations: Clipping, extract values to point etc.
 
 ## 9.	Plotting
 ### 9.1.	Date axis 
