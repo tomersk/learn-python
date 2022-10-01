@@ -77,41 +77,40 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 6.5.	[Reading the raster](https://github.com/tomersk/learn-python/blob/main/06_05.ipynb) 
 ### 6.6.	[Read the vector](https://github.com/tomersk/learn-python/blob/main/06_06.ipynb) 
 ### 6.7.	[Filtering](https://github.com/tomersk/learn-python/blob/main/06_07.ipynb) 
-### 6.8.	NDVI 
-### 6.9.	Raster and Vector operations: Clipping, extract values to point etc.
+### 6.8.	[NDVI](https://github.com/tomersk/learn-python/blob/main/06_08.ipynb) 
+### 6.9.	[Raster and Vector operations](https://github.com/tomersk/learn-python/blob/main/06_09.ipynb)
 
-## 9.	Plotting
-### 9.1.	Date axis 
-### 9.2.	Bar charts 
-### 9.3.	Pie charts 
-### 9.4.	2D plots 
-### 9.5.	3 D plots 
-### 9.6.	Box-plot 
-### 9.7.	Q-Q plot 
-### 9.8.	plotyy 
-### 9.9.	Annotation 
-### 9.10.	Basemap 
-### 9.11.	Shared axis 
-### 9.12.	Subplot 
+## 7.	Plotting
+### 7.1.	[Date axis](https://github.com/tomersk/learn-python/blob/main/07_01.ipynb) 
+### 7.2.	[Bar charts](https://github.com/tomersk/learn-python/blob/main/07_02.ipynb) 
+### 7.3.	[Pie charts](https://github.com/tomersk/learn-python/blob/main/07_03.ipynb) 
+### 7.4.	[2D plots](https://github.com/tomersk/learn-python/blob/main/07_04.ipynb) 
+### 7.5.	[3 D plots](https://github.com/tomersk/learn-python/blob/main/07_05.ipynb) 
+### 7.6.	[Box-plot](https://github.com/tomersk/learn-python/blob/main/07_06.ipynb) 
+### 7.7.	[Q-Q plot](https://github.com/tomersk/learn-python/blob/main/07_07.ipynb)  
+### 7.8.	[plotyy](https://github.com/tomersk/learn-python/blob/main/07_08.ipynb) 
+### 7.9.	[Annotation](https://github.com/tomersk/learn-python/blob/main/07_09.ipynb) 
+### 7.10.	[Basemap]
+### 7.11.	[Shared axis] 
+### 7.12.	[Subplot] 
 
-## 10.	Input-Output (Using pandas dataframe)
-### 10.1.	xls 
-### 10.2.	Text file 
-### 10.3.	NetCDF 
-### 10.4.	Pickle 
+## 8.	Input-Output (Using pandas dataframe)
+### 8.1.	xls 
+### 8.2.	Text file 
+### 8.3.	NetCDF 
+### 8.4.	Pickle 
 
-## 11.	Numerical Modelling
-### 11.1.	Integration 
-### 11.2.	ODE 
-### 11.3.	Parameter Estimation
+## 9.	Numerical Modelling
+### 9.1.	Integration 
+### 9.2.	ODE 
+### 9.3.  Differentiation
+### 9.4.	Parameter Estimation
 
-## 12.	Advance statistics
-### 12.1.	copula 
-### 12.2.	Multivariate distribution
+## 10.	Advance statistics
+### 10.1.	copula 
+### 10.2.	Multivariate distribution
 
-## 13.	 Install library
-### 13.1.	Basemap
-
-## 6.	Advanced application in Hydrology (python-based modelling packages)
-### 6.1.	AMBHAS
-### 6.2.	Pastas (Groundwater)
+## 11. Machine learning
+### 11.1 Clustering
+### 11.2 Neural Network
+### 11.3 Random forest
