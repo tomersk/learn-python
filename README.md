@@ -91,24 +91,29 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 7.8.	[plotyy](https://github.com/tomersk/learn-python/blob/main/07_08.ipynb) 
 ### 7.9.	[Annotation](https://github.com/tomersk/learn-python/blob/main/07_09.ipynb) 
 ### 7.10.	[Basemap]
-### 7.11.	[Shared axis] 
-### 7.12.	[Subplot] 
+### 7.11.	[Shared axis](https://github.com/tomersk/learn-python/blob/main/07_11.ipynb)  
+### 7.12.	[Subplot](https://github.com/tomersk/learn-python/blob/main/07_12.ipynb) 
 
-## 8.	Input-Output (Using pandas dataframe)
-### 8.1.	xls 
-### 8.2.	Text file 
-### 8.3.	NetCDF 
-### 8.4.	Pickle 
+## 8.	Input-Output 
+### 8.1.	[xls](https://github.com/tomersk/learn-python/blob/main/08_01.ipynb) 
+### 8.2.	[Text file](https://github.com/tomersk/learn-python/blob/main/08_02.ipynb) 
+### 8.3.	[NetCDF](https://github.com/tomersk/learn-python/blob/main/08_03.ipynb) 
+### 8.4.	[Pickle](https://github.com/tomersk/learn-python/blob/main/08_04.ipynb)
+### 8.5.  [CSV](https://github.com/tomersk/learn-python/blob/main/08_05.ipynb)
 
 ## 9.	Numerical Modelling
-### 9.1.	Integration 
-### 9.2.	ODE 
-### 9.3.  Differentiation
-### 9.4.	Parameter Estimation
+### 9.1.	[Integration](https://github.com/tomersk/learn-python/blob/main/09_01.ipynb) 
+### 9.2.	[ODE](https://github.com/tomersk/learn-python/blob/main/09_02.ipynb) 
+### 9.3.  [Differentiation](https://github.com/tomersk/learn-python/blob/main/09_03.ipynb) 
+### 9.4.	[Parameter Estimation](https://github.com/tomersk/learn-python/blob/main/09_04.ipynb) 
 
 ## 10.	Advance statistics
-### 10.1.	copula 
-### 10.2.	Multivariate distribution
+### 10.1.	[copula](https://github.com/tomersk/learn-python/blob/main/10_01.ipynb) 
+### 10.2.	[Multivariate distribution](https://github.com/tomersk/learn-python/blob/main/10_02.ipynb)
+### 10.3. [Geostatistics](https://github.com/tomersk/learn-python/blob/main/10_03.ipynb)
+### 10.4. [Bias correction](https://github.com/tomersk/learn-python/blob/main/10_04.ipynb)
+### 10.5. [PCA](https://github.com/tomersk/learn-python/blob/main/10_05.ipynb)
+### 10.6. [Kalman filtering](https://github.com/tomersk/learn-python/blob/main/10_06.ipynb)
 
 ## 11. Machine learning
 ### 11.1 Clustering
