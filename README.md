@@ -79,6 +79,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 6.7.	[Filtering](https://github.com/tomersk/learn-python/blob/main/06_07.ipynb) 
 ### 6.8.	[NDVI](https://github.com/tomersk/learn-python/blob/main/06_08.ipynb) 
 ### 6.9.	[Raster and Vector operations](https://github.com/tomersk/learn-python/blob/main/06_09.ipynb)
+### 6.10. [Clustering](https://github.com/tomersk/learn-python/blob/main/06_10.ipynb)
 
 ## 7.	Plotting
 ### 7.1.	[Date axis](https://github.com/tomersk/learn-python/blob/main/07_01.ipynb) 
@@ -114,8 +115,3 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 10.4. [Bias correction](https://github.com/tomersk/learn-python/blob/main/10_04.ipynb)
 ### 10.5. [PCA](https://github.com/tomersk/learn-python/blob/main/10_05.ipynb)
 ### 10.6. [Kalman filtering](https://github.com/tomersk/learn-python/blob/main/10_06.ipynb)
-
-## 11. Machine learning
-### 11.1 Clustering
-### 11.2 Neural Network
-### 11.3 Random forest
