@@ -61,7 +61,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 ### 5.2.	[Theoretical distributions](https://github.com/tomersk/learn-python/blob/main/05_02.ipynb) 
 ### 5.3.	[The t-test](https://github.com/tomersk/learn-python/blob/main/05_03.ipynb) 
 ### 5.4.	[KS test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb) 
-### 5.5.	[The chi square test](https://github.com/tomersk/learn-python/blob/main/05_04.ipynb)
+### 5.5.	[The chi square test](https://github.com/tomersk/learn-python/blob/main/05_05.ipynb)
 ### 5.6.	[Measure of statistical dependence](https://github.com/tomersk/learn-python/blob/main/05_06.ipynb)
 ### 5.7.	[Linear regression](https://github.com/tomersk/learn-python/blob/main/05_07.ipynb) 
 ### 5.8.	[Polynomial regression](https://github.com/tomersk/learn-python/blob/main/05_08.ipynb) 
