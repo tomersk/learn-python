@@ -19,7 +19,7 @@ The book was originally in the form of a LATEX source code. Current version of t
 
 ## 1. Getting Started
 
-### 1.1. [Why Python?](https://github.com/tomersk/learn-python/blob/main/01_GettingStarted.ipynb)
+### 1.1. [Why Python?](https://github.com/tomersk/learn-python/blob/main/01_GettingStarted.ipynb) [![Youtube](https://img.youtube.com/vi/Yi7qUcmaIEM&t=161s/0.jpg)](https://www.youtube.com/watch?v=Yi7qUcmaIEM&t=161s)
 ### 1.2.	[Python Installation](https://github.com/tomersk/learn-python/blob/main/01_02_python_installation.ipynb) 
 ### 1.3.	[Install additional packages](https://github.com/tomersk/learn-python/blob/main/01_03.ipynb) 
 ### 1.4.	[Interactive Development Environment](https://github.com/tomersk/learn-python/blob/main/01_04.ipynb) 
